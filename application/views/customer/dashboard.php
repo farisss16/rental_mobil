@@ -89,6 +89,58 @@
           </div>
         </div>
       </div>
+      <div class="item">
+        <img src="<?= base_url('assets/assets_shop') ?>/images/toyotaAlphard.png" alt="">
+        <div class="item-content">
+          <div class="main-content">
+            <a href="fleet.html">
+              <h4>Toyota Alphard</h4>
+            </a>
+            <!-- <ul class="post-info">
+              <li></li>
+            </ul> -->
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <img src="<?= base_url('assets/assets_shop') ?>/images/mincop.png" alt="">
+        <div class="item-content">
+          <div class="main-content">
+            <a href="fleet.html">
+              <h4>Mini Cooper</h4>
+            </a>
+            <!-- <ul class="post-info">
+              <li></li>
+            </ul> -->
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <img src="<?= base_url('assets/assets_shop') ?>/images/pajero.png" alt="">
+        <div class="item-content">
+          <div class="main-content">
+            <a href="fleet.html">
+              <h4>Pajero Sport</h4>
+            </a>
+            <!-- <ul class="post-info">
+              <li></li>
+            </ul> -->
+          </div>
+        </div>
+      </div>
+      <div class="item">
+        <img src="<?= base_url('assets/assets_shop') ?>/images/expander.png" alt="">
+        <div class="item-content">
+          <div class="main-content">
+            <a href="fleet.html">
+              <h4>Mitsubishi Expander</h4>
+            </a>
+            <!-- <ul class="post-info">
+              <li></li>
+            </ul> -->
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -97,7 +149,7 @@
 <section class="blog-posts grid-system">
   <div class="container">
     <div class="all-blog-posts">
-      <h2 class="text-center">Offers</h2>
+      <h2 class="text-center">Best Rental</h2>
       <br>
       <div class="row">
         <div class="col-md-4 col-sm-6">
@@ -106,7 +158,7 @@
               <img src="<?= base_url('assets/assets_shop') ?>/images/mazdaarx7.png" alt="">
             </div>
             <div class="down-content">
-              <strong>dari</strong> <span>Rp.500.000</span> <strong>/weekend</strong>
+              <span>Rp.30.000.000</span>
               <a href="offers.html">
                 <h4>Mazda RX7 2002</h4>
               </a>
@@ -119,7 +171,7 @@
               <img src="<?= base_url('assets/assets_shop') ?>/images/mazdamx5.png" alt="">
             </div>
             <div class="down-content">
-              <strong>dari</strong> <span>Rp.600.000</span> <strong>/weekend</strong>
+              <span>Rp.14.000.000</span>
               <a href="offers.html">
                 <h4>Mazda MX5 2023</h4>
               </a>
@@ -132,7 +184,7 @@
               <img src="<?= base_url('assets/assets_shop') ?>/images/toyota86.png" alt="">
             </div>
             <div class="down-content">
-              <strong>dari</strong> <span>Rp.400.000</span> <strong>/weekend</strong>
+              <span>Rp.15.000.000</span>
               <a href="offers.html">
                 <h4>Toyota GR 86</h4>
               </a>
